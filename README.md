@@ -1,3 +1,3 @@
 The code is in cpp
 Use VS or CodeBlocks
-Mingw
+You can either copy code or download the cpp file
